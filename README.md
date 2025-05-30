@@ -84,15 +84,3 @@ JavaServlet-Login-Page/
 │   └── logout.jsp
 ├── web.xml
 ```
-
----
-
-## Author
-
-This project was developed as part of a learning initiative to understand Java-based web application development using Servlets and JSP.
-
----
-
-## License
-
-This project is open-source and available for educational and non-commercial use.
